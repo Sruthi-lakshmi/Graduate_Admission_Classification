@@ -21,7 +21,7 @@ scikit-learn, pandas, seaborn, matplotlib, imbalanced-learn
 
 ##### -Loading the Dataset
 
-##### -Exploratory data analysis(EDA)
+##### -Exploratory data analysis (EDA)
 
 ##### -Visualization
 
@@ -31,7 +31,7 @@ scikit-learn, pandas, seaborn, matplotlib, imbalanced-learn
 
   Boxplot is used to remove the outliers from data.
   
-#### -Model Building
+##### -Model Building
 
   Using the models such as Logistic Regression, Decision Tree, Random Forest and Gradient Booster.
   
