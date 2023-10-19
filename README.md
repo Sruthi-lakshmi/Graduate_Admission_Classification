@@ -17,21 +17,21 @@ scikit-learn, pandas, seaborn, matplotlib, imbalanced-learn
 
 7.Chance of Admit ( ranging from 0 to 1 )
 ## Steps followed:
--Importing Necessary Libraries
+##### -Importing Necessary Libraries
 
--Loading the Dataset
+##### -Loading the Dataset
 
--Exploratory data analysis(EDA)
+##### -Exploratory data analysis(EDA)
 
--Visualization
+##### -Visualization
 
   With the help of Barcharts, Catplot, Displot and Heatmap i was able to obtain various insights from dataset.
   
--Removing the Outliers present
+##### -Removing the Outliers present
 
   Boxplot is used to remove the outliers from data.
   
--Model Building
+#### -Model Building
 
   Using the models such as Logistic Regression, Decision Tree, Random Forest and Gradient Booster.
   
