@@ -1,7 +1,7 @@
 # Graduate_Admission_Classification
 The Dataset is about graduate admission data. The dataset is build in purpose for helping students to understand on what basis they have been scored and selected for particular universities. The predicted output gives an overall idea about how they are selected.
 ## Libraries Used
-scikit-learn, pandas, seaborn, matplotlib, imbalanced-learn
+scikit-learn, pandas, seaborn, matplotlib, imbalanced-learn    
 ## Dataset Attributes
 1.GRE Scores ( out of 340 )
 
@@ -25,7 +25,7 @@ scikit-learn, pandas, seaborn, matplotlib, imbalanced-learn
 
 -Visualization
 
-  With the help of Barcharts, Catplot, Displot and Heatmap i was able to obtain various insights from dataset
+  With the help of Barcharts, Catplot, Displot and Heatmap i was able to obtain various insights from dataset.
   
 -Removing the Outliers present
 
